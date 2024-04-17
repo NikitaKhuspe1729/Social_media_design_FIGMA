@@ -1,6 +1,10 @@
 # Social_media_design
 
 Crafted my latest social media design using Figma's creative toolkit. 🎨 Sharing a glimpse into my digital canvas creation. ✨ Elevating my content game with Figma's seamless features. 💻
+# Social media designs
+
+
+
 # Festivals and occasions
 ![womans day story](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/3276af4e-e426-43bc-a241-f184efb944b1)
 ![mahashivratri post](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/18fdbd48-62ff-479e-84cc-a56c86026129)
