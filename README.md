@@ -1,8 +1,6 @@
 # Social_media_design
 
 Crafted my latest social media design using Figma's creative toolkit. 🎨 Sharing a glimpse into my digital canvas creation. ✨ Elevating my content game with Figma's seamless features. 💻
-# Social media designs
-
 
 
 # Festivals and occasions
