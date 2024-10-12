@@ -2,6 +2,7 @@
 
 Crafted my latest social media design using Figma's creative toolkit. 🎨 Sharing a glimpse into my digital canvas creation. ✨ Elevating my content game with Figma's seamless features. 💻
 
+# GDSC (Google developer student clubs)
 # Festivals and occasions
 ![womans day story](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/3276af4e-e426-43bc-a241-f184efb944b1)
 ![mahashivratri post](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/18fdbd48-62ff-479e-84cc-a56c86026129)
@@ -30,11 +31,8 @@ Crafted my latest social media design using Figma's creative toolkit. 🎨 Shari
 ![padawa](https://github.com/user-attachments/assets/fd777b77-301a-41b3-8f08-1c45d65e47fe)
 ![Hindi Day story](https://github.com/user-attachments/assets/b15f85e5-e5a0-461d-ade3-dcc2ea3d5e40)
 ![lal bahadur shastri jayanti](https://github.com/user-attachments/assets/fa6fc31a-f054-4126-9f2b-cd4ef2dac3ec)
-
-
-
-
-
+![engineer's day](https://github.com/user-attachments/assets/5e80e011-1014-4a31-94bd-27dcb279325a)
+![eid](https://github.com/user-attachments/assets/6bfb0949-2750-41d6-8561-f0a77323c95f)
 
 
 # Events
@@ -47,5 +45,8 @@ Close view :
 ![solution challenge 4](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/a9fd1985-31e7-4069-98b6-7626930837f4)
 ![solution challenge 5](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d0ef4238-3232-4484-8226-979b7bfd2c40)
 ![android](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d4df39c6-dcd1-48a1-b786-9331f2632f7f)
+![Gen ai register](https://github.com/user-attachments/assets/353b54a3-d46f-4a47-b996-4f744a89add1)
 
-
+# Poster
+![GDG poster](https://github.com/user-attachments/assets/6f1fb56a-8861-4367-b80a-6d9e446cb40f)
+![GDG poster- horizontal2](https://github.com/user-attachments/assets/17e567c3-b08c-48f4-b0d7-3a527d85f004)
