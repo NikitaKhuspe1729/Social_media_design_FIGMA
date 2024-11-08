@@ -12,8 +12,6 @@ Crafted my latest social media design using Figma's creative toolkit. 🎨 Shari
 ![ganesh chaturthi](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/4e1780be-e1b8-4d7f-8b15-275533f33a91)
 ![Teacher's Day story](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/8b44370f-8634-4cc1-8c1c-85e1622bf6d6)
 ![Eng  Day story](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/45eda7b1-ea8b-4bad-96d0-156db73df184)
-![Ganesh chaturthi post](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d4fdf193-ae3e-4db1-852a-85c7455106bb)
-![Gandhi jayanti post](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/80b36702-8d66-42c4-b9b7-dbc1d5178890)
 ![Bhaubij](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/63094c1d-af69-437b-b8ba-b45f6ce3d9ab)
 ![new year 2024](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/18d3a732-9357-4555-be0f-1d86d7e26b71)
 ![Aashadhi ekadashi](https://github.com/user-attachments/assets/55a6e0da-d815-4009-a9b5-a0642ebd06c5)
