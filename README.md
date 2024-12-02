@@ -3,6 +3,11 @@
 Crafted my latest social media design using Figma's creative toolkit. 🎨 Sharing a glimpse into my digital canvas creation. ✨ Elevating my content game with Figma's seamless features. 💻
 
 # GDSC (Google developer student clubs)
+# Lead Poster
+![vaibhav](https://github.com/user-attachments/assets/4498457c-1b0c-46ed-af94-bbe8d2fa0827)
+![nikita](https://github.com/user-attachments/assets/95344b6a-1f0e-4efe-98d0-7c5c5644fb68)
+![gaurav](https://github.com/user-attachments/assets/2646bc26-2e1c-415a-82b2-7da9b4963789)
+
 # Festivals and occasions
 ![womans day story](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/3276af4e-e426-43bc-a241-f184efb944b1)
 ![mahashivratri post](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/18fdbd48-62ff-479e-84cc-a56c86026129)
